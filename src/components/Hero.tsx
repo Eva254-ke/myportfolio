@@ -7,7 +7,7 @@ const Hero = () => {
         <div className="text-center">
           <div className="relative w-48 h-48 mx-auto mb-8">
             <img
-              src="https://images.unsplash.com/photo-1581092795360-fd1ca04f0952"
+              src="/lovable-uploads/7106c87e-ed95-4ee3-ab3f-a6922e6470a4.png"
               alt="Profile"
               className="rounded-full object-cover w-full h-full shadow-lg"
             />

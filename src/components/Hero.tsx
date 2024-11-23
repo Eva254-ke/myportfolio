@@ -8,7 +8,7 @@ const Hero = () => {
           <div className="relative w-48 h-48 mx-auto mb-8 group">
             <div className="absolute -inset-1 bg-gradient-to-r from-accent via-accent-light to-accent rounded-full blur opacity-25 group-hover:opacity-50 transition duration-1000"></div>
             <img
-              src="portfolio/portfolio.jpg"
+              src="https://raw.githubusercontent.com/Eva254-ke/portfolio/main/portfolio.jpg"
               alt="Profile"
               className="relative rounded-full object-cover w-full h-full shadow-lg ring-2 ring-accent/20 group-hover:ring-accent/40 transition-all duration-300"
             />
@@ -56,7 +56,7 @@ const Hero = () => {
               href="https://www.linkedin.com/in/zachariah-evans-6aa862301/"
               target="_blank"
               rel="noopener noreferrer"
-              className="text-gray-600 hover:text-blue-500 transition-colors"
+              className="text-[#0A66C2] hover:text-[#004182] transition-colors"
             >
               <Linkedin className="h-8 w-8" />
             </a>

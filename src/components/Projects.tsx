@@ -6,19 +6,22 @@ const Projects = () => {
       title: "API Vulnerability Scanner",
       description: "A tool designed to identify and mitigate security issues in APIs. Features automated testing and comprehensive reporting capabilities.",
       tags: ["Python", "Security", "API Testing"],
-      github: "https://github.com/yourusername/api-vulnerability-scanner",
+      github: "https://github.com/Eva254-ke/api-vulnerabilitiy-scanner",
+      demo: "https://apivulndetective.vercel.app/",
     },
     {
       title: "Security Testing Framework",
       description: "Custom framework for conducting security assessments and vulnerability scanning of web applications.",
       tags: ["Java", "Security", "Testing"],
-      github: "https://github.com/yourusername/security-testing-framework",
+      github: "https://github.com/Eva254-ke/vulnerablast",
+      demo: "https://testingframework.vercel.app/",
     },
     {
       title: "Secure Code Analyzer",
       description: "Static code analysis tool that identifies potential security vulnerabilities in source code.",
       tags: ["Python", "Static Analysis", "Security"],
-      github: "https://github.com/yourusername/secure-code-analyzer",
+      github: "https://github.com/Eva254-ke/api-vuln-detective",
+      demo: "https://securecode.vercel.app/",
     },
   ];
 
@@ -29,7 +32,7 @@ const Projects = () => {
           <h2 className="text-3xl font-bold text-navy mb-4">Projects</h2>
           <div className="w-20 h-1 bg-accent mx-auto mb-6"></div>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Here are some of my notable projects. Visit my GitHub profile for more!
+            Here are some of my notable projects focused on security and vulnerability detection.
           </p>
         </div>
 
@@ -59,16 +62,16 @@ const Projects = () => {
                     href={project.github}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-flex items-center text-navy hover:text-accent transition-colors"
+                    className="inline-flex items-center px-4 py-2 bg-purple-500 text-white rounded-lg hover:bg-purple-600 transition-all duration-300 transform hover:-translate-y-1"
                   >
                     <Github className="w-5 h-5 mr-2" />
-                    View Code
+                    GitHub
                   </a>
                   <a
-                    href={project.github}
+                    href={project.demo}
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-flex items-center text-navy hover:text-accent transition-colors"
+                    className="inline-flex items-center px-4 py-2 bg-blue-500 text-white rounded-lg hover:bg-blue-600 transition-all duration-300 transform hover:-translate-y-1"
                   >
                     <ExternalLink className="w-5 h-5 mr-2" />
                     Live Demo
@@ -77,18 +80,6 @@ const Projects = () => {
               </div>
             </div>
           ))}
-        </div>
-
-        <div className="text-center mt-12">
-          <a
-            href="https://github.com/yourusername"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="inline-flex items-center px-6 py-3 bg-accent text-white rounded-lg hover:bg-accent-light transition-colors"
-          >
-            <Github className="w-5 h-5 mr-2" />
-            View More on GitHub
-          </a>
         </div>
       </div>
     </section>

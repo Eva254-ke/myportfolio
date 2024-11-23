@@ -122,33 +122,33 @@ const Contact = () => {
           </div>
 
           <div className="space-y-6">
-            <div className="bg-white p-6 rounded-lg shadow-lg">
-              <h3 className="text-xl font-semibold text-navy mb-4">
+            <div className="bg-white p-8 rounded-lg shadow-lg">
+              <h3 className="text-2xl font-semibold text-navy mb-6">
                 Contact Information
               </h3>
-              <div className="space-y-4">
+              <div className="space-y-6">
                 <a
                   href="mailto:evanszachary36@proton.me"
-                  className="flex items-center space-x-3 text-gray-600 hover:text-accent transition-colors"
+                  className="flex items-center space-x-4 text-gray-600 hover:text-accent transition-colors p-3 rounded-lg hover:bg-gray-50"
                 >
-                  <Mail className="w-5 h-5" />
-                  <span>evanszachary36@proton.me</span>
+                  <Mail className="w-6 h-6" />
+                  <span className="text-lg">evanszachary36@proton.me</span>
                 </a>
                 <a
                   href="tel:+18438439502"
-                  className="flex items-center space-x-3 text-gray-600 hover:text-accent transition-colors"
+                  className="flex items-center space-x-4 text-gray-600 hover:text-accent transition-colors p-3 rounded-lg hover:bg-gray-50"
                 >
-                  <Phone className="w-5 h-5" />
-                  <span>+1 (843) 843-9502</span>
+                  <Phone className="w-6 h-6" />
+                  <span className="text-lg">+1 (843) 843-9502</span>
                 </a>
                 <a
                   href="https://www.linkedin.com/in/zachariah-evans-6aa862301"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex items-center space-x-3 text-gray-600 hover:text-accent transition-colors"
+                  className="flex items-center space-x-4 bg-[#0A66C2] text-white p-4 rounded-lg hover:bg-[#004182] transition-colors"
                 >
-                  <Linkedin className="w-5 h-5" />
-                  <span>LinkedIn Profile</span>
+                  <Linkedin className="w-6 h-6" />
+                  <span className="text-lg font-medium">LinkedIn Profile</span>
                 </a>
               </div>
             </div>

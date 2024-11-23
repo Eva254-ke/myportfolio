@@ -44,7 +44,9 @@ const Education = () => {
               <div className="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow">
                 <div className="flex flex-wrap justify-between items-start mb-2">
                   <h3 className="text-xl font-semibold text-navy">{edu.school}</h3>
-                  <span className="text-sm text-accent font-medium">{edu.period}</span>
+                  <span className="text-sm font-bold px-3 py-1 bg-accent/10 text-accent rounded-full">
+                    {edu.period}
+                  </span>
                 </div>
                 <p className="text-lg font-medium text-gray-700 mb-2">{edu.degree}</p>
                 <p className="text-gray-600">{edu.description}</p>

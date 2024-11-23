@@ -20,7 +20,7 @@ const Hero = () => {
           </h1>
           
           <p className="text-xl sm:text-2xl text-gray-600 mb-8 animate-fade-up" style={{ animationDelay: "200ms" }}>
-            Software Engineer | Building Secure Applications by Breaking Them
+            Software Engineer | Building and breaking secure applications to make them more secure
           </p>
           
           <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-4 animate-fade-up" style={{ animationDelay: "400ms" }}>

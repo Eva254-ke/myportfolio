@@ -19,7 +19,7 @@ const About = () => {
             
             <div className="space-y-4">
               <div className="flex items-start space-x-4">
-                <Shield className="w-6 h-6 text-accent flex-shrink-0 mt-1" />
+                <Shield className="w-6 h-6 text-[#8B5CF6] hover:text-[#7C3AED] transition-colors flex-shrink-0 mt-1" />
                 <div>
                   <h3 className="font-semibold text-navy">Security First</h3>
                   <p className="text-gray-600">Dedicated to identifying and mitigating security vulnerabilities</p>
@@ -27,7 +27,7 @@ const About = () => {
               </div>
               
               <div className="flex items-start space-x-4">
-                <Code className="w-6 h-6 text-accent flex-shrink-0 mt-1" />
+                <Code className="w-6 h-6 text-[#F97316] hover:text-[#EA580C] transition-colors flex-shrink-0 mt-1" />
                 <div>
                   <h3 className="font-semibold text-navy">Clean Code</h3>
                   <p className="text-gray-600">Writing maintainable and efficient code is my priority</p>
@@ -35,7 +35,7 @@ const About = () => {
               </div>
               
               <div className="flex items-start space-x-4">
-                <Lock className="w-6 h-6 text-accent flex-shrink-0 mt-1" />
+                <Lock className="w-6 h-6 text-[#0EA5E9] hover:text-[#0284C7] transition-colors flex-shrink-0 mt-1" />
                 <div>
                   <h3 className="font-semibold text-navy">Innovation</h3>
                   <p className="text-gray-600">Constantly exploring new technologies and security practices</p>

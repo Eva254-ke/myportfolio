@@ -1,4 +1,4 @@
-import { ArrowRight, Github, Linkedin, Download } from "lucide-react";
+import { ArrowRight, Github, Linkedin, Download, Twitter } from "lucide-react";
 
 const Hero = () => {
   return (
@@ -58,6 +58,14 @@ const Hero = () => {
             className="text-[#0A66C2] hover:text-[#004182] transition-colors"
           >
             <Linkedin className="h-8 w-8" />
+          </a>
+          <a
+            href="https://twitter.com/Zachariah075730"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-[#1DA1F2] hover:text-[#0C85D0] transition-colors"
+          >
+            <Twitter className="h-8 w-8" />
           </a>
           <a
             href="https://github.com/Eva254-ke"

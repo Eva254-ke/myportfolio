@@ -9,7 +9,7 @@ const Hero = () => {
           <img
             src="https://raw.githubusercontent.com/Eva254-ke/portfolio/main/portfolio.jpg"
             alt="Profile"
-            className="relative rounded-full object-cover w-full h-full shadow-lg ring-2 ring-accent/20 group-hover:ring-accent/40 transition-all duration-300"
+            className="relative rounded-full object-cover w-full h-full shadow-lg ring-2 ring-accent/20 group-hover:ring-accent/40 transition-all duration-300 brightness-105 contrast-105 saturate-105"
           />
           <div className="absolute inset-0 rounded-full bg-accent/10 animate-pulse" />
         </div>

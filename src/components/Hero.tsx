@@ -24,7 +24,7 @@ const Hero = () => {
       <div className="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-4 animate-fade-up" style={{ animationDelay: "400ms" }}>
         <a
           href="#contact"
-          className="inline-flex items-center px-8 py-4 bg-accent text-white rounded-lg hover:bg-accent-light transition-all duration-300 transform hover:-translate-y-1 hover:shadow-xl text-lg font-semibold w-full sm:w-auto justify-center"
+          className="inline-flex items-center px-8 py-4 bg-[#9b87f5] text-white rounded-lg hover:bg-[#b8a8f8] transition-all duration-300 transform hover:-translate-y-1 hover:shadow-xl text-lg font-semibold w-full sm:w-auto justify-center"
         >
           Get in Touch
           <ArrowRight className="ml-2 h-6 w-6" />

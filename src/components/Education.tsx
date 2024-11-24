@@ -44,7 +44,7 @@ const Education = () => {
               <div className="bg-white p-6 rounded-lg shadow-lg hover:shadow-xl transition-shadow">
                 <div className="flex flex-wrap justify-between items-start mb-2">
                   <h3 className="text-xl font-semibold text-navy">{edu.school}</h3>
-                  <span className="text-sm font-bold px-3 py-1 bg-accent/10 text-accent rounded-full">
+                  <span className="text-sm font-bold px-4 py-2 bg-[#9b87f5] text-white rounded-full">
                     {edu.period}
                   </span>
                 </div>

@@ -12,7 +12,7 @@ Welcome to my portfolio! I'm Zachariah Evans, a Software Engineer with a focus o
 - Other: API Security, Web Security Testing, Penetration Testing, Vulnerability Scanning
 
 ## Live Demo
-You can view my live portfolio here:  
+You can view my live portfolio here  
 https://evans-peach.vercel.app/
 
 ## Featured Projects

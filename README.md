@@ -1,20 +1,46 @@
-## Evans Zachariah portfolio
-# welcome to my portfolio
-Hi, I'm Zachariah Evans a passionate and driven Software Engineer with a focus on building secure and scalable applications. I specialize in a wide range of technologies including Python, Java and C. I'm always excited to explore new tools and frameworks to enhance my skill set.
+# Zachariah Evans - Portfolio
 
-My journey in software development is rooted in a commitment to writing clean, efficient code and staying ahead of industry trends particularly in cybersecurity. As a Bug Bounty Hunter, I actively work on discovering vulnerabilities and securing web applications which has fueled my interest in creating applications that are both innovative and secure.
+## Introduction
+Welcome to my portfolio! I'm Zachariah Evans, a Software Engineer with a focus on building secure, scalable applications. I specialize in Python, Java, and C, and am passionate about web security, cybersecurity, and building innovative solutions.
 
-This portfolio showcases some of my key projects including API vulnerability scanners, security testing frameworks and secure code analysis tools. It also highlights my educational journey where I’m currently pursuing my degrees in BSc in Information Technology and BSc in Computer Science.
+## Technologies & Tools
+**Technologies I work with:**
+- Programming Languages: Python, Java, C, JavaScript
+- Frameworks: React, Node.js, Flask, Django
+- Tools: Git, Docker, Vercel, AWS, Nginx
+- Databases: MySQL, PostgreSQL, MongoDB
+- Other: API Security, Web Security Testing, Penetration Testing, Vulnerability Scanning
 
-Feel free to explore my work and reach out if you'd like to collaborate on exciting tech projects!
+## Live Demo
+You can view my live portfolio here:  
+https://evanszachary.netlify.app/
 
+## Featured Projects
+**1. [API Vulnerability Scanner](https://github.com/Eva254-ke/api-vulnerabilitiy-scanner)**  
+A tool for scanning APIs for vulnerabilities and security risks.  
+[Live Demo](https://apivulndetective.vercel.app/)
 
-## Technologies used for this project
+**2. [Security Testing Framework](https://github.com/Eva254-ke/vulnerablast)**  
+A security testing framework designed for automated vulnerability assessments.  
+[Live Demo](https://testingframework.vercel.app)
 
-This project is built with .
+**3. [Secure Code Analyzer](https://github.com/Eva254-ke/api-vuln-detective)**  
+A web-based tool for analyzing code for potential vulnerabilities and security flaws.  
+[Live Demo](https://securecode.vercel.app)
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## Contact Me
+- Email: [evanszachary36@proton.me](mailto:evanszachary36@proton.me)
+- LinkedIn: [Zachariah Evans](https://www.linkedin.com/in/zachariah-evans-6aa862301)
+- GitHub: [Eva254-ke](https://github.com/Eva254-ke)
+- WhatsApp: +1843 843 9502
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contributing
+Feel free to fork this repository, create a pull request, or open issues for any improvements or suggestions.
+
+## Educational Background
+- **Kebirigo Boys High School** (2019-2021)
+- **Mount Kenya University** (BSc Information Technology, 2023 - Present)
+- **University of the People** (BSc Computer Science, 2023 - Present)

@@ -1,7 +1,7 @@
 # Zachariah Evans - Portfolio
 
 ## Introduction
-Welcome to my portfolio! I'm Zachariah Evans, a Software Engineer with a focus on building secure, scalable applications. I specialize in Python, Java, and C, and am passionate about web security, cybersecurity, and building innovative solutions.
+Welcome to my portfolio! I'm Zachariah Evans, a Software Engineer with a focus on building secure, scalable applications. I specialize in Python, Java, and C. I am also passionate about web security, cybersecurity and building innovative solutions.
 
 ## Technologies & Tools
 **Technologies I work with:**
@@ -13,7 +13,7 @@ Welcome to my portfolio! I'm Zachariah Evans, a Software Engineer with a focus o
 
 ## Live Demo
 You can view my live portfolio here:  
-https://evanszachary.netlify.app/
+https://evans-peach.vercel.app/
 
 ## Featured Projects
 **1. [API Vulnerability Scanner](https://github.com/Eva254-ke/api-vulnerabilitiy-scanner)**  
@@ -37,8 +37,15 @@ A web-based tool for analyzing code for potential vulnerabilities and security f
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contributing
-Feel free to fork this repository, create a pull request, or open issues for any improvements or suggestions.
+## Group Members
+1. Hillary Kiprotich https://github.com/Machuge27/SWEngineering/tree/main/Hackathos/Portfolio
+2. *Hassan Khalifa- https://github.com/Faruq-Feroz/Hassan-Faruq
+3. 3. Saddam Saku - https://github.com/SaddamTechie/saddamtechie.github.io
+   4. Rashid said -https://github.com/SirRasheed/portfoliorasheed.git
+5.   Tom Obande - https://github.com/tbrowns/portfolio
+6. Alexander Brian  https://github.com/BrianKachumba/HACKATHON.git
+7. Zachariah Evans https://github.com/Eva254-ke/myportfolio
+8.  8. Joshua Ogallo  https://github.com/ogallj/my_portfolio 
 
 ## Educational Background
 - **Kebirigo Boys High School** (2019-2021)

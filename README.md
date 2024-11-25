@@ -1,7 +1,7 @@
 # Zachariah Evans - Portfolio
 
 ## Introduction
-Welcome to my portfolio! I'm Zachariah Evans, a Software Engineer with a focus on building secure, scalable applications. I specialize in Python, Java, and C. I am also passionate about web security, cybersecurity and building innovative solutions.
+Welcome to my portfolio! I'm Zachariah Evans, a Software Engineer with a focus on building secure, scalable applications. I specialize in Python, Java and C.  I am also passionate about web security, cybersecurity and building innovative solutions.
 
 ## Technologies & Tools
 **Technologies I work with:**
